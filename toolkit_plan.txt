@@ -1,0 +1,28 @@
+# PERSONAL MINI-TOOLKIT PLAN
+
+## 1. Simple Calculator
+The calculator asks the user for two numbers and allows them to add, subtract, multiply, or divide them.
+
+**Concepts:** Input, variables, float conversion, conditionals, and f-strings.
+
+## 2. To-Do List
+The to-do list allows the user to add tasks, view all tasks, and remove tasks.
+
+**Concepts:** Lists, append(), pop(), loops, conditionals, input, and f-strings.
+
+## 3. Number Guessing Game
+The game asks the user to guess a secret number between 1 and 10 and gives hints until they guess correctly.
+
+**Concepts:** While loops, if/elif/else, variables, integer conversion, f-strings, and the random module.
+
+## Exact Main Menu
+
+WELCOME TO MY PERSONAL MINI-TOOLKIT
+
+MAIN MENU
+1. Simple Calculator
+2. To-Do List
+3. Number Guessing Game
+4. Quit
+
+The main menu uses a while loop to keep running until the user chooses Quit. Conditional statements select the chosen tool and handle invalid choices.
